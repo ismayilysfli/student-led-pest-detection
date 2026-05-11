@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Datasets
+dataset/
+dataset_prepared/
+dataset_old_3109/
+*.zip
+*.rar
+*.7z
+
+# Training outputs / models
+runs/
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.safetensors
+
+# Logs / caches
+logs/
+*.log
+.cache/
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+*_backup*.py

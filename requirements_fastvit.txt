@@ -1,0 +1,3 @@
+# Install torch/torchvision separately for your CUDA version if needed:
+# https://pytorch.org/get-started/locally/
+timm>=1.0.0
